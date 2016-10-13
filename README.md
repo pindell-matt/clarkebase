@@ -1,7 +1,7 @@
 
 #Clarkebase
 
-An exchange for Turing School's cryptocurrency, [ClarkeCoin](http://dns1.clarkecoin.org/index.html).
+An exchange for Turing School's own cryptocurrency, [ClarkeCoin](https://github.com/worace/coinage).
 
 #### Landing Page
 ![Image of Landing Page](https://i.imgur.com/0v5IPMf.jpg)
